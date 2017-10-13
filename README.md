@@ -1,2 +1,2 @@
-# laravel-5-provision
-A Laravel provision script for Ubuntu.
+# mod-box
+A modular approach to provisioning.
